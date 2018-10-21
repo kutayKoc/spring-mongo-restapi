@@ -1,6 +1,7 @@
 # spring-mongo-restapi
 java spring boot and mongodb rest api example. <br>
 i use tvmaze's api. u can find here: http://api.tvmaze.com/shows <br>
+using mlab for mongodb <br>
 insert  <b>method:put    host:8080/api </b> <br>
 update  <b>method:post    host:8080/api </b><br>
 delete with id <b>method:delete  host:8080/api/id </b><br>
